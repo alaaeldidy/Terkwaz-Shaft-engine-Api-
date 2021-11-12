@@ -1,0 +1,1 @@
+{"uuid":"552e6682-8e0e-4132-a2d6-d2a404b69669","name":"tests.ShaftApi","children":["c8f15684-e620-4952-bd9f-b79ab78184c4"],"befores":[{"name":"openurl","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1636756220416,"stop":1636756220442}],"afters":[],"links":[],"start":1636756220336,"stop":1636756226814}

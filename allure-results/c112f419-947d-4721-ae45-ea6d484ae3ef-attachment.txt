@@ -1,0 +1,25 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+################################################################################################################################################
+
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[tests.ShaftApi.usergetcatfactrandomly]
+################################################################################################################################################
+[ReportManager] Response status code: [200], status line: [HTTP/1.1 200 OK] @13-11-2021 00:30:24.0588 AM
+[ReportManager] Assertion Passed: Evaluating the actual response status code against the expected one... @13-11-2021 00:30:24.0628 AM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @13-11-2021 00:30:24.0641 AM
+[ReportManager] API Action [PerformRequest] successfully performed. With the following test data [Request Type: "GET" | Target Status Code: "200" | Service URL: "https://cat-fact.herokuapp.com/facts/random" | Content Type: "*/*" | Response Time: "1786ms"]. @13-11-2021 00:30:26.0214 AM
+[ReportManager] Successfully created attachment [API Response - JSON Body] @13-11-2021 00:30:26.0603 AM
+[ReportManager] API Action [GetResponseJSONValue] successfully performed. With the following test data [text]. @13-11-2021 00:30:26.0627 AM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @13-11-2021 00:30:26.0822 AM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
